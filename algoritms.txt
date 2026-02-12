@@ -1,0 +1,43 @@
+Piesglēgšanās e-pastam
+Kad pieslēdzos e-pastam, es vispirms atveru ierīci (telefonu vai datoru) un atrodu e-pasta lietotni vai mājaslapu. Ja neesmu jau pieslēdzies, man jāievada savi piekļuves dati — e-pasta adrese un parole. Dažreiz sistēma prasa papildu drošības apstiprinājumu, piemēram, kodu telefonā. Ja dati ir pareizi, atveras mana pastkaste, kur varu lasīt vai rakstīt vēstules. Process beidzas, kad esmu veiksmīgi piekļuvis savai e-pasta iesūtnei.
+
+Procesa laikā pieņemu lēmumus:
+Kuru ierīci izmantot?
+Vai atceros paroli vai jāizmanto paroles atjaunošana?
+Vai apstiprināt pieslēgšanos ar divu faktoru autentifikāciju?
+
+Step by step
+1. Ieslēdzu ierīci (telefonu/datoru).
+2. Atveru e-pasta lietotni vai pārlūku un e-pasta vietni.
+3. Pārbaudu, vai jau esmu pieslēdzies.
+4. Ja jā → pāreju uz iesūtni.
+5. Ja nē → turpinu ar 4. soli.
+6. Ievadu e-pasta adresi.
+7. Ievadu paroli.
+8. Ja nepieciešams, ievadu drošības kodu (2FA).
+9. Nospiežu “Pieslēgties”.
+10. Sistēma pārbauda datus.
+11. Ja dati pareizi → atveras iesūtne (process beidzas).
+12. Ja dati nepareizi → atkārtoju ievadi vai izmantoju paroles atjaunošanu.
+
+
+Kafijas pirkšana
+Kad pērku kafiju, vispirms izvēlos vietu — kafejnīcu vai veikalu. Ieejot, apskatu piedāvājumu un izlemju, kādu kafiju vēlos (piemēram, melnu kafiju vai kapučīno). Dažreiz jāizvēlas arī izmērs vai piedevas. Pēc tam veicu pasūtījumu un samaksāju. Ja tā ir kafejnīca, sagaidu, kamēr kafiju pagatavo. Process beidzas, kad saņemu kafiju un varu to dzert.
+
+Procesa laikā pieņemu lēmumus:
+Kur pirkt kafiju?
+Kādu kafiju izvēlēties?
+Kādu izmēru vai piedevas?
+Kā maksāt (skaidrā naudā vai ar karti)?
+
+Step by step:
+1. Izvēlos vietu, kur iegādāties kafiju.
+2. Dodos uz izvēlēto vietu.
+3. Apskatu piedāvājumu.
+4. Izvēlos kafijas veidu.
+5. Izvēlos izmēru un papildu piedevas (ja nepieciešams).
+6. Veicu pasūtījumu pie pārdevēja vai automātā.
+7. Izvēlos maksāšanas veidu.
+8. Veicu apmaksu.
+9. Gaidu, kamēr kafija tiek pagatavota (ja nepieciešams).
+10. Saņemu kafiju (process beidzas).
